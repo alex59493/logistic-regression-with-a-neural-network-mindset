@@ -8,6 +8,7 @@ from lr_utils import load_dataset
 
 
 from helpers import sigmoid
+from model import model
 
 # Load data
 # You are given a dataset ("data.h5") containing:
